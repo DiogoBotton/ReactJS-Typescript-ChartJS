@@ -18,10 +18,16 @@ YARN
 ### `yarn add @types/react-chartjs-2 -D`
 ### `yarn add @types/chart.js -D`
 
-## Sugestões de vídeos / tutoriais:
+## Sugestões de vídeos / tutoriais / Links:
 
 Aprenda a criar gráficos para web com Chart.js • HTML5/JS:
 https://www.youtube.com/watch?v=l0K95at8BVg
 
-How To Use ChartJS in React Hooks | 2020
+How To Use ChartJS in React Hooks | 2020:
 https://www.youtube.com/watch?v=A5KaLpqzRi4
+
+Documentação:
+https://www.chartjs.org/docs/latest/
+
+npmjs:
+https://www.npmjs.com/package/react-chartjs-2
